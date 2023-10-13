@@ -1,5 +1,10 @@
 # Midterm Prep #1
 
+## TEAM MEMBERS
+1. Anthony Cunningham
+2. Chester Lee Coloma
+3. Joshua Shea
+
 ## COOPERATION PLAN
 1. What are the key strengths of each person on the team?
 > Chester - Backend: API related stuff and Server Logic
