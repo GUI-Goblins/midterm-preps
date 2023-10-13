@@ -30,6 +30,22 @@
 5. How and when will you escalate the conflict if your resolution attempts are unsuccessful?
 > Communication and discuss with instructor
 
+## COMMUNICATION PLAN
+1. What hours will you be available to communicate?
+> Regular school hours and late nights as needed to progress the project.
+2. What platforms will you use to communicate (ie. Slack, phone …)?
+> Discord and Slack
+3. How often will you take breaks?
+> Every hour and communicate if needed
+4. What is your plan if you start to fall behind?
+> De-scope to meet MVP, communicate blockers, and discuss with instructor
+5. How will you communicate after hours and on the weekend? 
+> We will utilize Discord and Slack for communication
+6. What is your strategy for ensuring everyone’s voice is heard?
+> Communication is a big part. We will have stand-up everyday and everyone is free to voice any problems/blockers they encounter
+7. How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
+> Everyone agreed to voice their concerns/comments/ideas throughout the project
+
 ## GIT PROCESS
 1. What components of your project will live on GitHub?
 > Both frontend (if needed) and backend code will be stored on GitHub
