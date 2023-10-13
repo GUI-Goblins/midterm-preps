@@ -40,12 +40,29 @@
 > 
 > Pull request will need reviewer(s)
 4. Will you be using a PR review workflow? If so, consider:
-4a. How many people must review a PR?
-> We will need ONE reviewer for a pull request to staging branch and TWO reviewer for a pull request to main branch
-b. Who merges PRs?
+> 1. How many people must review a PR?
+> 
+>We will need ONE reviewer for a pull request to staging branch and TWO reviewer for a pull request to main branch
+> 2. Who merges PRs?
+> 
 > Someone else other than the one that created the PR
-c. How often will you merge?
+> 3. How often will you merge?
+> 
 > When feature task(s) are updated or completed
-d. How will you communicate that it’s time to merge?
+> 4. How will you communicate that it’s time to merge?
+> 
 > Via Discord or Slack
 
+## WORK PLAN
+1. How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
+> Trello Board - Work flow management and taskings.
+>  
+> Stand-ups - Daily meeting to see where each team member is at and how we are feeling overall.
+2. What project management tool will be used?
+> Trello
+> 
+> Discord (Voice/Screen Share Communication)
+> 
+> Slack (Voice/Screen Share Communication)
+> 
+> Invision - Wireframing and Application design
