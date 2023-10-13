@@ -3,13 +3,17 @@
 ## COOPERATION PLAN
 1. What are the key strengths of each person on the team?
 > Chester - Backend: API related stuff and Server Logic
+> 
 > Anthony - Innovation and design ideas. Front-end/aesthetic with creative solutions. Full-stack development applications.
+> 
 > Joshua S. -  Adaptable. Full-stack versatility with expertise in high scale conceptual design/management.
 2. How can you best utilize these strengths in the execution of your project?
 > Bringing together each team member to balance roles and leverage different ideas and strengths to create a viable end product.
 3. In which professional competencies do you each want to develop greater strength?
-> Chester - Communication 
+> Chester - Communication
+> 
 > Anthony - Tool Proficiency and Customer orientation proficiency.
+> 
 > Joshua S. - Communication (public speaking)
 4. Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 > Daily stand-up and review to ensure there are no misunderstandings of daily goals and project alignment. Creating a workspace where each team member can address flaws, problems, or suggest new ideas or feature implementation. 
@@ -25,3 +29,23 @@
 > Try and give them stuff they can work on, if they refuse to work, continue doing our own jobs and make the instructor aware of the issue. 
 5. How and when will you escalate the conflict if your resolution attempts are unsuccessful?
 > Communication and discuss with instructor
+
+## GIT PROCESS
+1. What components of your project will live on GitHub?
+> Both frontend (if needed) and backend code will be stored on GitHub
+2. How will you share the repository with your teammates?
+> We created a GitHub org that everyone can access.
+3. What is your Git flow?
+> Create a branch for each features
+> 
+> Pull request will need reviewer(s)
+4. Will you be using a PR review workflow? If so, consider:
+4a. How many people must review a PR?
+> We will need ONE reviewer for a pull request to staging branch and TWO reviewer for a pull request to main branch
+b. Who merges PRs?
+> Someone else other than the one that created the PR
+c. How often will you merge?
+> When feature task(s) are updated or completed
+d. How will you communicate that it’s time to merge?
+> Via Discord or Slack
+
